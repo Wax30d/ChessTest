@@ -51,6 +51,9 @@ else:
             xodW = random.choice(numberOfAllPossibleStepsW)
             print(xodW)
 
+            rW = xodW[0]
+            cW = xodW[1]
+
             if xodW == xodB:
                 print("CHEER")
                 break
@@ -81,6 +84,9 @@ else:
 
             xodB = random.choice(numberOfAllPossibleStepsB)
             print(xodB)
+
+            rB = xodB[0]
+            cB = xodB[1]
 
             if xodW == xodB:
                 print("CHEER")
