@@ -14,5 +14,5 @@ Process:
   - Input chess board column and row;
   - Input white knights starting position;
   - Input black knights starting position;
-  - Input total amounts of moves.
+  - Input total amounts of moves;
   - Code will run till total amount moves of kinghts done.
