@@ -8,10 +8,11 @@ Code info:
   - Only 2 figures exist on chess board, white and black knights;
   - Number of row and columns of chess board will be given by user;
   - Starting position of white and black knigths will be given by user; 
+  - Total amounts of steps (moe) will be given by user.
 
 Process:
   - Input chess board column and row;
   - Input white knights starting position;
   - Input black knights starting position;
-  - Code will run till that 2 kinghts meeting at one position.
-
+  - Input total amounts of moves.
+  - Code will run till total amount moves of kinghts done.
